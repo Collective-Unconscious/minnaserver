@@ -1,13 +1,13 @@
 ## ynoserver
-Server for https://github.com/ynoproject/ynoclient
+Server for https://github.com/Collective-Unconscious/minnaengine
 
 ## Configuring
 TODO.
 
 ## Building
 ```
-git clone https://github.com/ynoproject/ynoserver
-cd ynoserver
+git clone https://github.com/Collective-Unconscious/minnaserver
+cd minnaserver
 go build
 ```
 
